@@ -1,0 +1,61 @@
+Test Case 1: Normal Input
+Input:
+N = 20
+Output:
+4 16
+
+--------------------------------------------------
+
+Test Case 2: Larger Value
+Input:
+N = 50
+Output:
+4 16 36
+
+--------------------------------------------------
+
+Test Case 3: Exact Square Limit
+Input:
+N = 64
+Output:
+4 16 36 64
+
+--------------------------------------------------
+
+Test Case 4: Small Value
+Input:
+N = 10
+Output:
+4
+
+--------------------------------------------------
+
+Test Case 5: Minimum Valid Input
+Input:
+N = 4
+Output:
+4
+
+--------------------------------------------------
+
+Test Case 6: Value Less Than First Term
+Input:
+N = 3
+Output:
+No output
+
+--------------------------------------------------
+
+Test Case 7: Zero Input (Edge Case)
+Input:
+N = 0
+Output:
+No output
+
+--------------------------------------------------
+
+Test Case 8: Negative Input (Edge Case)
+Input:
+N = -10
+Output:
+No output

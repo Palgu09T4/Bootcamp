@@ -1,0 +1,64 @@
+
+1. Positive Integers
+
+Input:
+a = 5
+b = 10
+
+Output:
+a = 10
+b = 5
+
+
+2. One Positive, One Negative
+
+Input:
+a = 8
+b = -3
+
+Output:
+a = -3
+b = 8
+
+
+3. Both Negative Numbers
+
+Input:
+a = -4
+b = -9
+
+Output:
+a = -9
+b = -4
+
+
+4. Zero and Positive Number
+
+Input:
+a = 0
+b = 7
+
+Output:
+a = 7
+b = 0
+
+
+5. Same Numbers
+
+Input:
+a = 6
+b = 6
+
+Output:
+a = 6
+b = 6
+
+
+6. Invalid Input
+
+Input:
+a = abc
+b = 5
+
+Output:
+ValueError (Invalid Input)

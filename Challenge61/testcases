@@ -1,0 +1,168 @@
+"""
+TEST CASES LEVEL 1: Patient Walk-In
+1.
+Name: Arjun Kumar
+Age: 35
+Gender: Male
+Contact: 9876543210
+
+2.
+Name: Lakshmi Devi
+Age: 65
+Gender: Female
+Contact: 9123456780
+
+3.
+Name: Rahul
+Age: 40
+Gender: Male
+Contact: 9000011111
+"""
+
+# -------------------- LEVEL 2 --------------------
+"""
+TEST CASES LEVEL 2: Patient Service Selection
+1.
+Available Services: 1-6
+Selected: 1,4
+Selected Services: ['General Consultation', 'X-Ray']
+
+2.
+Selected: 2,3
+Selected Services: ['Blood Test', 'Covid Test']
+
+3.
+Selected: 1,2,3,4,5,6
+Selected Services: ['General Consultation','Blood Test','Covid Test','X-Ray','CT Scan','MRI']
+"""
+
+# -------------------- LEVEL 3 --------------------
+"""
+TEST CASES LEVEL 3: Fetching Costs
+1.
+Selected Services: ['General Consultation', 'X-Ray']
+Selected Costs: [500, 1500]
+
+2.
+Selected Services: ['Blood Test', 'Covid Test']
+Selected Costs: [300, 800]
+
+3.
+Selected Services: ['CT Scan', 'MRI']
+Selected Costs: [4000, 7000]
+"""
+
+# -------------------- LEVEL 4 --------------------
+"""
+TEST CASES LEVEL 4: Total Cost
+1.
+Selected Costs: [500, 1500]
+Total Cost (Before Tax): ₹2000
+
+2.
+Selected Costs: [300, 800]
+Total Cost (Before Tax): ₹1100
+
+3.
+Selected Costs: [4000, 7000]
+Total Cost (Before Tax): ₹11000
+"""
+
+# -------------------- LEVEL 5 --------------------
+"""
+TEST CASES LEVEL 5: GST Calculation (18%)
+1.
+Subtotal: ₹2000
+GST (18%): ₹360
+Grand Total: ₹2360
+
+2.
+Subtotal: ₹1100
+GST (18%): ₹198
+Grand Total: ₹1298
+
+3.
+Subtotal: ₹11000
+GST (18%): ₹1980
+Grand Total: ₹12980
+"""
+
+# -------------------- LEVEL 6 --------------------
+"""
+TEST CASES LEVEL 6: Invoice Generation
+1.
+Patient: Arjun Kumar, 35, Male, 9876543210
+Selected Services: ['General Consultation', 'X-Ray']
+Subtotal: ₹2000
+GST: ₹360
+Grand Total: ₹2360
+
+2.
+Patient: Lakshmi Devi, 65, Female, 9123456780
+Selected Services: ['Blood Test', 'Covid Test']
+Subtotal: ₹1100
+GST: ₹198
+Grand Total: ₹1298
+
+3.
+Patient: Rahul, 40, Male, 9000011111
+Selected Services: ['CT Scan', 'MRI']
+Subtotal: ₹11000
+GST: ₹1980
+Grand Total: ₹12980
+"""
+
+# -------------------- LEVEL 7 --------------------
+"""
+TEST CASES LEVEL 7: Admin Service Setup
+1.
+Number of services: 3
+Services: ['General Consultation', 'X-Ray', 'Blood Test']
+Costs: [500, 1500, 300]
+
+2.
+Number of services: 2
+Services: ['MRI', 'Covid Test']
+Costs: [7000, 800]
+
+3.
+Number of services: 1
+Services: ['CT Scan']
+Costs: [4000]
+"""
+
+# -------------------- LEVEL 8 --------------------
+"""
+TEST CASES LEVEL 8: Discounts
+1. Age < 60, subtotal < 5000
+Patient: Raj, 45
+Services: ['General Consultation','Blood Test']
+Subtotal: ₹800
+Senior Discount: ₹0
+High-Bill Discount: ₹0
+Grand Total with GST: ₹944
+
+2. Age >= 60, subtotal < 5000
+Patient: Lakshmi, 65
+Services: ['General Consultation','X-Ray']
+Subtotal: ₹2000
+Senior Discount: ₹200
+High-Bill Discount: ₹0
+Grand Total with GST: ₹2124
+
+3. Age < 60, subtotal > 5000
+Patient: Rahul, 40
+Services: ['X-Ray','CT Scan','MRI']
+Subtotal: ₹12500
+Senior Discount: ₹0
+High-Bill Discount: ₹625
+Grand Total with GST: ₹14012.5
+
+4. Age >= 60, subtotal > 5000
+Patient: Sita, 70
+Services: ['X-Ray','CT Scan','MRI']
+Subtotal: ₹12500
+Senior Discount: ₹1250
+High-Bill Discount: ₹562.5
+Grand Total with GST: ₹12611.25
+"""

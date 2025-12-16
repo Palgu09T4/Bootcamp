@@ -1,0 +1,35 @@
+1. Standard Case
+Input:
+Annual Gross Salary = 1200000
+Total Tax Payable = 67600
+Output:
+Annual Gross Salary = 1200000
+Total Tax Payable (including cess) = 67600
+Annual Net Salary = 1132400
+
+2. No Tax Case
+Input:
+Annual Gross Salary = 500000
+Total Tax Payable = 0
+Output:
+Annual Gross Salary = 500000
+Total Tax Payable (including cess) = 0
+Annual Net Salary = 500000
+
+3. High Tax Case
+Input:
+Annual Gross Salary = 1800000
+Total Tax Payable = 223600
+Output:
+Annual Gross Salary = 1800000
+Total Tax Payable (including cess) = 223600
+Annual Net Salary = 1576400
+
+4. Edge Case (Tax = Annual Gross)
+Input:
+Annual Gross Salary = 50000
+Total Tax Payable = 50000
+Output:
+Annual Gross Salary = 50000
+Total Tax Payable (including cess) = 50000
+Annual Net Salary = 0

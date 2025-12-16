@@ -1,0 +1,63 @@
+1. Normal Case
+
+Input:
+Total Amount = 2000
+Discount Percentage = 10
+
+Output:
+Discount = 200
+Final Amount = 1800
+
+
+2. Zero Discount
+
+Input:
+Total Amount = 1500
+Discount Percentage = 0
+
+Output:
+Discount = 0
+Final Amount = 1500
+
+
+3. Full Discount
+
+Input:
+Total Amount = 1000
+Discount Percentage = 100
+
+Output:
+Discount = 1000
+Final Amount = 0
+
+
+4. Decimal Values
+
+Input:
+Total Amount = 2500.50
+Discount Percentage = 12.5
+
+Output:
+Discount = 312.5625
+Final Amount = 2187.9375
+
+
+5. Zero Amount
+
+Input:
+Total Amount = 0
+Discount Percentage = 10
+
+Output:
+Discount = 0
+Final Amount = 0
+
+
+6. Invalid Input
+
+Input:
+Total Amount = abc
+Discount Percentage = 10
+
+Output:
+ValueError (Invalid Input)

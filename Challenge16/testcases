@@ -1,0 +1,56 @@
+1. Valid Inputs
+Input:
+Name = Ananya
+EmpID = E12345
+Basic Salary = 50000
+Special Allowances = 10000
+Bonus % = 10
+Output:
+All inputs valid!
+Gross Monthly Salary = Rs. 60,000.00
+Annual Gross Salary = Rs. 7,20,000.00
+
+2. Invalid Name
+Input:
+Name = Ananya123
+Output:
+Invalid name! Only alphabets allowed, max 50 characters.
+
+3. Invalid EmpID
+Input:
+EmpID = 12!
+Output:
+Invalid EmpID! Alphanumeric, 5–10 characters only.
+
+4. Negative Basic Salary
+Input:
+Basic Salary = -5000
+Output:
+Invalid Basic Salary! Must be positive and <= 1,00,00,000.
+
+5. Special Allowances Exceeding Max
+Input:
+Special Allowances = 20000000
+Output:
+Invalid Special Allowances! Must be >=0 and <= 1,00,00,000.
+
+6. Bonus Percentage Invalid
+Input:
+Bonus % = 120
+Output:
+Invalid Bonus! Must be numeric between 0 and 100.
+
+7. Gross Monthly Salary <= 0
+Input:
+Basic Salary = 0
+Special Allowances = 0
+Output:
+Error: Gross Monthly Salary must be greater than zero.
+
+8. Annual Gross Salary Exceeds Limit
+Input:
+Basic Salary = 9000000
+Special Allowances = 2000000
+Bonus % = 100
+Output:
+Error: Annual Gross Salary exceeds realistic limit.

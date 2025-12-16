@@ -1,0 +1,43 @@
+Test Case 1
+Input:
+12345
+
+Output:
+Reverse of the number: 54321
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+1000
+
+Output:
+Reverse of the number: 1
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+7
+
+Output:
+Reverse of the number: 7
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+0
+
+Output:
+Reverse of the number: 0
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+908172
+
+Output:
+Reverse of the number: 271809
+

@@ -1,0 +1,55 @@
+1. Standard Case
+
+Input:
+Name = Rajesh
+EmpID = E101
+Basic Monthly Salary = 50000
+Special Allowances = 10000
+Bonus Percentage = 10
+
+Output:
+Gross Monthly Salary = 60000
+Annual Bonus = 72000
+Annual Gross Salary = 792000
+
+2. No Bonus
+
+Input:
+Name = Anjali
+EmpID = E102
+Basic Monthly Salary = 40000
+Special Allowances = 5000
+Bonus Percentage = 0
+
+Output:
+Gross Monthly Salary = 45000
+Annual Bonus = 0
+Annual Gross Salary = 540000
+
+3. High Bonus
+
+Input:
+Name = Suresh
+EmpID = E103
+Basic Monthly Salary = 60000
+Special Allowances = 15000
+Bonus Percentage = 20
+
+Output:
+Gross Monthly Salary = 75000
+Annual Bonus = 180000
+Annual Gross Salary = 1080000
+
+4. Zero Allowances
+
+Input:
+Name = Meena
+EmpID = E104
+Basic Monthly Salary = 50000
+Special Allowances = 0
+Bonus Percentage = 5
+
+Output:
+Gross Monthly Salary = 50000
+Annual Bonus = 30000
+Annual Gross Salary = 630000

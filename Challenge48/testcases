@@ -1,0 +1,46 @@
+Test Case 1
+Input:
+5
+10 20 30 5 50
+
+Output:
+Maximum value: 50
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+3
+15 25 10
+
+Output:
+Maximum value: 25
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+1
+100
+
+Output:
+Maximum value: 100
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+0
+
+Output:
+Array is empty
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+4
+7 14 21 28
+
+Output:
+Maximum value: 28

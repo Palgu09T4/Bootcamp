@@ -1,0 +1,63 @@
+
+Test Case 1
+Input:
+Item Code = PROMO10
+Description = Shirt
+Quantity = 2
+Price = 1000
+
+Output:
+Promotional Discount Applied: ₹ 200.0
+Final Item Total: ₹ 1800.0
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Item Code = A101
+Description = Pen
+Quantity = 5
+Price = 20
+
+Output:
+No Promotional Discount Applied
+Final Item Total: ₹ 100
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Item Code = promo10
+Description = Jacket
+Quantity = 1
+Price = 3000
+
+Output:
+Promotional Discount Applied: ₹ 300.0
+Final Item Total: ₹ 2700.0
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Item Code = B202
+Description = Notebook
+Quantity = 3
+Price = 150
+
+Output:
+No Promotional Discount Applied
+Final Item Total: ₹ 450
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Item Code = PROMO10
+Description = Shoes
+Quantity = 2
+Price = 2500
+
+Output:
+Promotional Discount Applied: ₹ 500.0
+Final Item Total: ₹ 4500

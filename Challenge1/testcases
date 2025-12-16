@@ -1,0 +1,62 @@
+1. Positive Integers
+
+Input:
+a = 10, b = 20
+Output:
+Sum = 30
+Average = 15
+
+2. One Positive, One Negative
+
+Input:
+a = 10, b = -5
+Output:
+Sum = 5
+Average = 2.5
+
+3. Both Negative Numbers
+
+Input:
+a = -10, b = -20
+Output:
+Sum = -30
+Average = -15
+
+4. Decimal Numbers
+
+Input:
+a = 2.5, b = 3.5
+Output:
+Sum = 6.0
+Average = 3.0
+
+5. Zero Value
+
+Input:
+a = 0, b = 10
+Output:
+Sum = 10
+Average = 5
+
+6. Large Numbers
+
+Input:
+a = 100000, b = 200000
+Output:
+Sum = 300000
+Average = 150000
+
+7. Same Numbers
+
+Input:
+a = 10, b = 10
+Output:
+Sum = 20
+Average = 10
+
+8. Invalid Input (Error Case)
+
+Input:
+a = "abc", b = 5
+Output:
+ValueError (invalid input)

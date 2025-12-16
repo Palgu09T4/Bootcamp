@@ -1,0 +1,53 @@
+
+Test Case 1
+Input:
+Grand Total = 10000
+Member = y
+
+Output:
+2% Membership Discount Applied: 200.0
+Final Payable Amount: 9800.0
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Grand Total = 5000
+Member = n
+
+Output:
+No Membership Discount Applied
+Final Payable Amount: 5000
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Grand Total = 15000
+Member = y
+
+Output:
+2% Membership Discount Applied: 300.0
+Final Payable Amount: 14700.0
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Grand Total = 2000
+Member = n
+
+Output:
+No Membership Discount Applied
+Final Payable Amount: 2000
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Grand Total = 7500
+Member = y
+
+Output:
+2% Membership Discount Applied: 150.0
+Final Payable Amount: 7350.0

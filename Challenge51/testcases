@@ -1,0 +1,41 @@
+Test Case 1
+Input:
+5
+10 20 30 40 50
+Output:
+Array elements: [10, 20, 30, 40, 50]
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+3
+5 15 25
+Output:
+Array elements: [5, 15, 25]
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+1
+100
+Output:
+Array elements: [100]
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+0
+Output:
+Array elements: []
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+4
+7 14 21 28
+Output:
+Array elements: [7, 14, 21, 28]

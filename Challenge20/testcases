@@ -1,0 +1,61 @@
+Test Case 1: Normal Input
+Input:
+N = 15
+Output:
+1 2 4 7 11
+
+--------------------------------------------------
+
+Test Case 2: Larger Value
+Input:
+N = 30
+Output:
+1 2 4 7 11 16 22 29
+
+--------------------------------------------------
+
+Test Case 3: Exact Term Limit
+Input:
+N = 22
+Output:
+1 2 4 7 11 16 22
+
+--------------------------------------------------
+
+Test Case 4: Minimum Input
+Input:
+N = 1
+Output:
+1
+
+--------------------------------------------------
+
+Test Case 5: Small Value
+Input:
+N = 2
+Output:
+1 2
+
+--------------------------------------------------
+
+Test Case 6: Value Less Than First Term
+Input:
+N = 0
+Output:
+No output
+
+--------------------------------------------------
+
+Test Case 7: Negative Input (Edge Case)
+Input:
+N = -5
+Output:
+No output
+
+--------------------------------------------------
+
+Test Case 8: Large Input
+Input:
+N = 50
+Output:
+1 2 4 7 11 16 22 29 37 46

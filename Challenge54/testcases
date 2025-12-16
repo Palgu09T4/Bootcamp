@@ -1,0 +1,91 @@
+Test Case 1
+Input:
+5
+10 20 30 40 50
+30
+Output:
+Element 30 found at position 3
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+5
+50 40 30 20 10
+20
+Output:
+Element 20 found at position 2
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+4
+5 15 25 35
+10
+Output:
+Element 10 not found in the array
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+1
+100
+100
+Output:
+Element 100 found at position 1
+
+--------------------------------------------------
+Test Case 1
+Input:
+5
+10 20 30 40 50
+30
+Output:
+Element 30 found at position 3
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+5
+50 40 30 20 10
+20
+Output:
+Element 20 found at position 2
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+4
+5 15 25 35
+10
+Output:
+Element 10 not found in the array
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+1
+100
+100
+Output:
+Element 100 found at position 1
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+0
+10
+Output:
+Element 10 not found in the array
+Test Case 5
+Input:
+0
+10
+Output:
+Element 10 not found in the array

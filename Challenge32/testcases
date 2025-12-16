@@ -1,0 +1,45 @@
+
+Test Case 1
+Input:
+Grand Total = 450
+
+Output:
+Minimum purchase of ₹500 not met. Invoice cannot be generated.
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Grand Total = 500
+
+Output:
+Minimum purchase met. Invoice can be generated.
+Final Grand Total: ₹500.0
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Grand Total = 1500
+
+Output:
+Minimum purchase met. Invoice can be generated.
+Final Grand Total: ₹1500.0
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Grand Total = 0
+
+Output:
+Minimum purchase of ₹500 not met. Invoice cannot be generated.
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Grand Total = 499.99
+
+Output:
+Minimum purchase of ₹500 not met. Invoice cannot be generated.

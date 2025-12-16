@@ -1,0 +1,42 @@
+Test Case 1
+Input:
+270176
+
+Output:
+Two Seven Zero One Seven Six
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+504
+
+Output:
+Five Zero Four
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+123456
+
+Output:
+One Two Three Four Five Six
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+0
+
+Output:
+Zero
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+908172
+
+Output:
+Nine Zero Eight One Seven Two

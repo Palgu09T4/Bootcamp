@@ -1,0 +1,23 @@
+1. Positive Even Number
+Input:
+Number = 10
+Output:
+Even
+
+2. Positive Odd Number
+Input:
+Number = 7
+Output:
+Odd
+
+3. Zero
+Input:
+Number = 0
+Output:
+Even
+
+4. Negative Odd Number
+Input:
+Number = -3
+Output:
+Odd

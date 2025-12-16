@@ -1,0 +1,56 @@
+Test Case 1
+Input:
+5
+10 50 20 40 30
+asc
+Output:
+Sorted Array (Ascending): [10, 20, 30, 40, 50]
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+5
+10 50 20 40 30
+desc
+Output:
+Sorted Array (Descending): [50, 40, 30, 20, 10]
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+3
+5 15 25
+asc
+Output:
+Sorted Array (Ascending): [5, 15, 25]
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+1
+100
+desc
+Output:
+Sorted Array (Descending): [100]
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+0
+asc
+Output:
+Sorted Array (Ascending): []
+
+--------------------------------------------------
+
+Test Case 6
+Input:
+4
+7 14 21 28
+xyz
+Output:
+Invalid sorting order

@@ -1,0 +1,47 @@
+1. Income Below 3 Lakh
+Input:
+Taxable Income = 250000
+Output:
+Tax before rebate = 0
+Cess (4%) = 0
+Total Tax Payable = 0
+
+2. Income Between 3L - 6L (With Rebate)
+Input:
+Taxable Income = 500000
+Output:
+Tax before rebate = 0
+Cess (4%) = 0
+Total Tax Payable = 0
+
+3. Income Between 6L - 9L
+Input:
+Taxable Income = 800000
+Output:
+Tax before rebate = 35000
+Cess (4%) = 1400
+Total Tax Payable = 36400
+
+4. Income Between 9L - 12L
+Input:
+Taxable Income = 1000000
+Output:
+Tax before rebate = 65000
+Cess (4%) = 2600
+Total Tax Payable = 67600
+
+5. Income Between 12L - 15L
+Input:
+Taxable Income = 1400000
+Output:
+Tax before rebate = 125000
+Cess (4%) = 5000
+Total Tax Payable = 130000
+
+6. Income Above 15L
+Input:
+Taxable Income = 1800000
+Output:
+Tax before rebate = 215000
+Cess (4%) = 8600
+Total Tax Payable = 223600

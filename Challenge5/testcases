@@ -1,0 +1,91 @@
+---------------------------------
+Test Case 1: Standard Given Data
+---------------------------------
+
+Input:
+Total Land = 80 acres
+Number of Segments = 5
+Land per Segment = 16 acres
+
+Tomatoes:
+30% land yield = 10 tonnes/acre
+70% land yield = 12 tonnes/acre
+Selling Price = Rs.7 per kg
+
+Potatoes:
+Yield = 10 tonnes/acre
+Selling Price = Rs.20 per kg
+
+Cabbage:
+Yield = 14 tonnes/acre
+Selling Price = Rs.24 per kg
+
+Sunflower:
+Yield = 0.7 tonnes/acre
+Selling Price = Rs.200 per kg
+
+Sugarcane:
+Yield = 45 tonnes/acre
+Selling Price = Rs.4000 per tonne
+
+Output:
+Overall Sales = Rs. 14,972,800
+Chemical-free Sales after 11 months = Rs. 12,092,800
+
+
+---------------------------------
+Test Case 2: Verify Vegetable Sales Only
+---------------------------------
+
+Input:
+Vegetable Crops = Tomato, Potato, Cabbage
+Land per crop = 16 acres
+
+Output:
+Tomato Sales = Rs. 1,276,800
+Potato Sales = Rs. 3,200,000
+Cabbage Sales = Rs. 5,376,000
+
+Total Vegetable Sales = Rs. 9,852,800
+
+
+---------------------------------
+Test Case 3: Verify Sunflower Sales
+---------------------------------
+
+Input:
+Land = 16 acres
+Yield = 0.7 tonnes/acre
+Price = Rs.200 per kg
+
+Output:
+Sunflower Sales = Rs. 2,240,000
+
+
+---------------------------------
+Test Case 4: Verify Sugarcane Sales
+---------------------------------
+
+Input:
+Land = 16 acres
+Yield = 45 tonnes/acre
+Price = Rs.4000 per tonne
+
+Output:
+Sugarcane Sales = Rs. 2,880,000
+
+
+---------------------------------
+Test Case 5: Chemical-Free Timeline Validation
+---------------------------------
+
+Input:
+Vegetables converted in 6 months
+Sunflower converted in next 4 months
+Sugarcane conversion ends after 14 months
+
+Time = 11 months
+
+Output:
+Chemical-free crops = Vegetables + Sunflower
+Sugarcane excluded

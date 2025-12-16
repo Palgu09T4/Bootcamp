@@ -1,0 +1,64 @@
+1. Positive Values
+
+Input:
+Principal = 1000
+Rate = 5
+Time = 2
+
+Output:
+Simple Interest = 100
+
+
+2. Zero Time
+
+Input:
+Principal = 5000
+Rate = 10
+Time = 0
+
+Output:
+Simple Interest = 0
+
+
+3. Decimal Values
+
+Input:
+Principal = 2500.5
+Rate = 4.5
+Time = 1.5
+
+Output:
+Simple Interest = 168.78375
+
+
+4. Large Values
+
+Input:
+Principal = 100000
+Rate = 8
+Time = 3
+
+Output:
+Simple Interest = 24000
+
+
+5. Zero Principal
+
+Input:
+Principal = 0
+Rate = 10
+Time = 5
+
+Output:
+Simple Interest = 0
+
+
+6. Invalid Input
+
+Input:
+Principal = abc
+Rate = 5
+Time = 2
+
+Output:
+ValueError (Invalid Input)

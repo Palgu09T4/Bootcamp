@@ -1,0 +1,47 @@
+Test Case 1
+Input:
+Grand Total = 450
+
+Output:
+Final Grand Total: ₹ 450.0
+Loyalty Points Earned: 4
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Grand Total = 1000
+
+Output:
+Final Grand Total: ₹ 1000.0
+Loyalty Points Earned: 10
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Grand Total = 1234.56
+
+Output:
+Final Grand Total: ₹ 1234.56
+Loyalty Points Earned: 12
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Grand Total = 99.99
+
+Output:
+Final Grand Total: ₹ 99.99
+Loyalty Points Earned: 0
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Grand Total = 5000
+
+Output:
+Final Grand Total: ₹ 5000.0
+Loyalty Points Earned: 50

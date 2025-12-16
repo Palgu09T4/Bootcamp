@@ -1,0 +1,48 @@
+
+Test Case 1
+Input:
+123.456
+
+Output:
+Whole part: 123
+Fractional part: 0.456
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+78.9
+
+Output:
+Whole part: 78
+Fractional part: 0.9
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+0.123
+
+Output:
+Whole part: 0
+Fractional part: 0.123
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+50.0
+
+Output:
+Whole part: 50
+Fractional part: 0.0
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+0.0
+
+Output:
+Whole part: 0
+Fractional part: 0.0

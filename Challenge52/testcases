@@ -1,0 +1,41 @@
+Test Case 1
+Input:
+5
+1 2 3 4 5
+Output:
+Reversed Array: [5, 4, 3, 2, 1]
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+4
+10 20 30 40
+Output:
+Reversed Array: [40, 30, 20, 10]
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+3
+5 15 25
+Output:
+Reversed Array: [25, 15, 5]
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+1
+100
+Output:
+Reversed Array: [100]
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+0
+Output:
+Reversed Array: []

@@ -1,0 +1,23 @@
+1. Leap Year (Divisible by 4)
+Input:
+Year = 2024
+Output:
+Leap Year
+
+2. Century Year Not Leap
+Input:
+Year = 1900
+Output:
+Not a Leap Year
+
+3. Century Leap Year
+Input:
+Year = 2000
+Output:
+Leap Year
+
+4. Non-Leap Year
+Input:
+Year = 2023
+Output:
+Not a Leap Year

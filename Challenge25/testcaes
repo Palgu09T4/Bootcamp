@@ -1,0 +1,57 @@
+Test Case 1: Normal Input
+Input:
+Item Code = A101
+Description = Pen
+Quantity = 5
+Price = 20
+
+Output:
+Total Cost = 100
+
+--------------------------------------------------
+
+Test Case 2: Single Quantity
+Input:
+Item Code = A102
+Description = Notebook
+Quantity = 1
+Price = 50
+
+Output:
+Total Cost = 50
+
+--------------------------------------------------
+
+Test Case 3: Large Quantity
+Input:
+Item Code = A103
+Description = USB Drive
+Quantity = 10
+Price = 500
+
+Output:
+Total Cost = 5000
+
+--------------------------------------------------
+
+Test Case 4: Price with Decimal
+Input:
+Item Code = A104
+Description = Chocolate
+Quantity = 3
+Price = 25.50
+
+Output:
+Total Cost = 76.5
+
+--------------------------------------------------
+
+Test Case 5: Minimum Quantity
+Input:
+Item Code = A105
+Description = Eraser
+Quantity = 1
+Price = 5
+
+Output:
+Total Cost = 5

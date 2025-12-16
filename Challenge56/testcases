@@ -1,0 +1,50 @@
+Test Case 1
+Input:
+2
+3
+1 2 3
+4 5 6
+Output:
+Sum of all elements: 21
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+3
+2
+10 20
+30 40
+50 60
+Output:
+Sum of all elements: 210
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+1
+4
+5 5 5 5
+Output:
+Sum of all elements: 20
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+0
+0
+Output:
+Sum of all elements: 0
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+2
+2
+0 0
+0 0
+Output:
+Sum of all elements: 0

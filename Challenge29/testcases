@@ -1,0 +1,47 @@
+Test Case 1
+Input:
+Grand Total = 4000
+
+Output:
+Tax Applied: ₹200.00
+Final Payable Amount: ₹4200.00
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Grand Total = 15000
+
+Output:
+Tax Applied: ₹1500.00
+Final Payable Amount: ₹16500.00
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Grand Total = 25000
+
+Output:
+Tax Applied: ₹3750.00
+Final Payable Amount: ₹28750.00
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Grand Total = 5000
+
+Output:
+Tax Applied: ₹500.00
+Final Payable Amount: ₹5500.00
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Grand Total = 20000
+
+Output:
+Tax Applied: ₹2000.00
+Final Payable Amount: ₹22000.00

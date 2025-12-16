@@ -1,0 +1,68 @@
+1. First Class
+
+Input:
+Name = Rahul
+Subject 1 = 70
+Subject 2 = 65
+Subject 3 = 75
+
+Output:
+Total Marks = 210
+Average Marks = 70
+Class Secured = 1st Class
+
+
+2. Second Class
+
+Input:
+Name = Ananya
+Subject 1 = 55
+Subject 2 = 50
+Subject 3 = 60
+
+Output:
+Total Marks = 165
+Average Marks = 55
+Class Secured = 2nd Class
+
+
+3. Pass Class
+
+Input:
+Name = Suresh
+Subject 1 = 40
+Subject 2 = 35
+Subject 3 = 45
+
+Output:
+Total Marks = 120
+Average Marks = 40
+Class Secured = Pass Class
+
+
+4. Fail
+
+Input:
+Name = Meena
+Subject 1 = 30
+Subject 2 = 25
+Subject 3 = 35
+
+Output:
+Total Marks = 90
+Average Marks = 30
+Class Secured = Fail
+
+
+5. Boundary Case (Average = 60)
+
+Input:
+Name = Kiran
+Subject 1 = 60
+Subject 2 = 60
+Subject 3 = 60
+
+Output:
+Total Marks = 180
+Average Marks = 60
+Class Secured = 1st Class

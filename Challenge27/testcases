@@ -1,0 +1,54 @@
+Test Case 1
+Input:
+Grand Total = 12000
+Total Quantity = 25
+
+Output:
+10% Discount Applied: 1200
+5% Quantity Discount Applied: 540
+Final Payable Amount: 10260
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Grand Total = 15000
+Total Quantity = 10
+
+Output:
+10% Discount Applied: 1500
+Final Payable Amount: 13500
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Grand Total = 8000
+Total Quantity = 30
+
+Output:
+5% Quantity Discount Applied: 400
+Final Payable Amount: 7600
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Grand Total = 5000
+Total Quantity = 10
+
+Output:
+No Discount Applied
+Final Payable Amount: 5000
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Grand Total = 20000
+Total Quantity = 40
+
+Output:
+10% Discount Applied: 2000
+5% Quantity Discount Applied: 900
+Final Payable Amount: 17100

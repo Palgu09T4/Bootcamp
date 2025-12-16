@@ -1,0 +1,52 @@
+Test Case 1
+Input:
+Grand Total = 10000
+Payment Mode = cash
+
+Output:
+No Surcharge Applied for Cash Payment
+Final Payable Amount: ₹ 10000.0
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+Grand Total = 15000
+Payment Mode = card
+
+Output:
+Credit Card Surcharge Applied: ₹ 300.0
+Final Payable Amount: ₹ 15300.0
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+Grand Total = 5000
+Payment Mode = Cash
+
+Output:
+No Surcharge Applied for Cash Payment
+Final Payable Amount: ₹ 5000.0
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+Grand Total = 20000
+Payment Mode = CARD
+
+Output:
+Credit Card Surcharge Applied: ₹ 400.0
+Final Payable Amount: ₹ 20400.0
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+Grand Total = 8000
+Payment Mode = card
+
+Output:
+Credit Card Surcharge Applied: ₹ 160.0
+Final Payable Amount: ₹ 8160.0

@@ -1,0 +1,39 @@
+1. Standard Case
+
+Input:
+Annual Gross Salary = 600000
+
+Output:
+Annual Gross Salary = 600000
+Standard Deduction = 50000
+Taxable Income = 550000
+
+2. Exactly at Deduction Limit
+
+Input:
+Annual Gross Salary = 50000
+
+Output:
+Annual Gross Salary = 50000
+Standard Deduction = 50000
+Taxable Income = 0
+
+3. Less than Deduction (Negative Taxable Income)
+
+Input:
+Annual Gross Salary = 40000
+
+Output:
+Annual Gross Salary = 40000
+Standard Deduction = 50000
+Taxable Income = -10000
+
+4. High Salary Case
+
+Input:
+Annual Gross Salary = 1200000
+
+Output:
+Annual Gross Salary = 1200000
+Standard Deduction = 50000
+Taxable Income = 1150000

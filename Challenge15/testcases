@@ -1,0 +1,64 @@
+
+1. Standard Case
+
+Input:
+Name = John Doe
+EmpID = E12345
+Basic Salary = 60000
+Special Allowances = 25000
+Bonus % = 10
+
+Output:
+Gross Monthly Salary = Rs. 85,000.00
+Annual Gross Salary = Rs. 11,220,000.00
+Taxable Income = Rs. 11,170,000.00
+Tax Payable (with breakdown) = Rs. 1,332,800.00
+Annual Net Salary = Rs. 9,887,200.00
+
+2. No Bonus Case
+
+Input:
+Name = Anjali
+EmpID = E12346
+Basic Salary = 50000
+Special Allowances = 10000
+Bonus % = 0
+
+Output:
+Gross Monthly Salary = Rs. 60,000.00
+Annual Gross Salary = Rs. 720,000.00
+Taxable Income = Rs. 670,000.00
+Tax Payable (with breakdown) = Rs. 0
+Annual Net Salary = Rs. 720,000.00
+
+3. Low Salary Case (Tax Rebate Applies)
+
+Input:
+Name = Suresh
+EmpID = E12347
+Basic Salary = 40000
+Special Allowances = 5000
+Bonus % = 5
+
+Output:
+Gross Monthly Salary = Rs. 45,000.00
+Annual Gross Salary = Rs. 567,000.00
+Taxable Income = Rs. 517,000.00
+Tax Payable (with breakdown) = Rs. 0
+Annual Net Salary = Rs. 567,000.00
+
+4. High Salary Case
+
+Input:
+Name = Meena
+EmpID = E12348
+Basic Salary = 150000
+Special Allowances = 50000
+Bonus % = 20
+
+Output:
+Gross Monthly Salary = Rs. 200,000.00
+Annual Gross Salary = Rs. 2,880,000.00
+Taxable Income = Rs. 2,830,000.00
+Tax Payable (with breakdown) = Rs. 499,200.00
+Annual Net Salary = Rs. 2,380,800.00

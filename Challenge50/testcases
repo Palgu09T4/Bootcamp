@@ -1,0 +1,51 @@
+Test Case 1
+Input:
+5
+10 21 30 41 50
+
+Output:
+Even numbers: 3
+Odd numbers: 2
+
+--------------------------------------------------
+
+Test Case 2
+Input:
+3
+5 15 25
+
+Output:
+Even numbers: 0
+Odd numbers: 3
+
+--------------------------------------------------
+
+Test Case 3
+Input:
+4
+2 4 6 8
+
+Output:
+Even numbers: 4
+Odd numbers: 0
+
+--------------------------------------------------
+
+Test Case 4
+Input:
+0
+
+Output:
+Even numbers: 0
+Odd numbers: 0
+
+--------------------------------------------------
+
+Test Case 5
+Input:
+6
+1 2 3 4 5 6
+
+Output:
+Even numbers: 3
+Odd numbers: 3

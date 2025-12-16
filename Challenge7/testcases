@@ -1,0 +1,20 @@
+1. Salary Greater than 3 Lakhs
+Input:
+Name = Ravi
+Salary = 450000
+Output:
+Ravi must pay tax
+
+2. Salary Equal to 3 Lakhs
+Input:
+Name = Anita
+Salary = 300000
+Output:
+Anita does not need to pay tax
+
+3. Salary Less than 3 Lakhs
+Input:
+Name = Suresh
+Salary = 250000
+Output:
+Suresh does not need to pay tax
